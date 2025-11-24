@@ -1,4 +1,4 @@
-# Scala PPM image processing project
+# Functional Scala PPM image processing project
 Used the [Netpbm](https://en.wikipedia.org/wiki/Netpbm) package
 
 Operations:
