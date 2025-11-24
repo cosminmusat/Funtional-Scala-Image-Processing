@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="TemaScala,TemaScala.main,TemaScala.test,tema1pp-skel_4692,tema1pp-skel_4692.main,tema1pp-skel_4692.test" />
+  </component>
+</project>
