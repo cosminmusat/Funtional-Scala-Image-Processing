@@ -5,4 +5,4 @@ Operations:
 - Vertical and horizontal concatenation
 - 90° multiple rotations
 - Sobel edge detection through convolution-based operations
-- Dynamic-programming generator for Pascal’s triangle under modular arithmetic to producede color-mapped visual patterns
+- Dynamic-programming generator for Pascal’s triangle under modular arithmetic to produce color-mapped visual patterns
